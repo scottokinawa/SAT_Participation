@@ -1,4 +1,7 @@
 # SAT_Participation
+
+[see code](https://github.com/scottokinawa/SAT_Participation/blob/master/code/SAT%20Participation%20.ipynb)
+
 I want to see how to possibly increase SAT_Participation
 
 I want to quickly note that in this exercise the SAT max score is a 1600 and the ACT max score is a 36. 
